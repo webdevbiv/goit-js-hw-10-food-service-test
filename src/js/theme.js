@@ -77,3 +77,4 @@ refs.themeSwitch.addEventListener('change', (e) => {
 // function themeDefault() {
 //     localStorage.getItem('local-theme') ? localStorage.removeItem('local-theme') : localStorage.setItem('local-theme', 'dark-theme')
 // }
+console.log(`win`);
